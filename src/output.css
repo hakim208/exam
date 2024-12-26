@@ -1350,6 +1350,18 @@ video {
     width: 24%;
   }
 
+  .md\:w-\[52\%\] {
+    width: 52%;
+  }
+
+  .md\:w-\[54\%\] {
+    width: 54%;
+  }
+
+  .md\:w-\[60\%\] {
+    width: 60%;
+  }
+
   .md\:flex-row {
     flex-direction: row;
   }
